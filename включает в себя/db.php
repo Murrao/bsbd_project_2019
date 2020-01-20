@@ -1,8 +1,8 @@
 <?php
 
 	$host = 'localhost';
-	$db_name = 'project';
-	$db_user = 'admin';
+	$db_name = 'bsbd_project';
+	$db_user = 'bsbd_admin';
 	$db_pass = '0kVfA2a4aoSZpyPf';
 
 	$options = [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION];
